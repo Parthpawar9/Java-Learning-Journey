@@ -24,12 +24,7 @@ public class Calculator {
                         break;
             case '%' : System.out.println("Modulo of given numbers is: " + (num1 % num2) );
                         break; 
-            default : System.out.println("padhe path kar lawdya");
-                       
-        }
-       
-
-
-    }
-    
+            default : System.out.println("Invalid operator");                     
+        }    
+    }    
 }
