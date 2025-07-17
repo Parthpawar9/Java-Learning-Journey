@@ -1,6 +1,2 @@
 # Java-Learning-Journey
-Project Name: Calculator App
-
-Description: Simple console-based calculator in Java.
-
-Features: Addition, Subtraction, Multiplication, Division, Modulo.
+A structured set of Java programs and projects demonstrating my progress in Java, OOP, and Spring Boot development.
